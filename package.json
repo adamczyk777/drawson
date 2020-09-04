@@ -16,7 +16,7 @@
     "@types/react-dom": "16.8.3",
     "classnames": "^2.2.6",
     "lodash.range": "^3.2.0",
-    "node-sass": "^4.12.0",
+    "node-sass": "^4.13.1",
     "ohm-js": "^0.14.0",
     "react": "^16.8.6",
     "react-ace": "^6.5.0",
